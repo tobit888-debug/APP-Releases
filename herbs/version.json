@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "2.6",
+  "versionCode": 27,
+  "versionName": "2.7",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Neu: Rückmelden per rotem „!“-Knopf bei jedem Eintrag – mit Text, Diktat, Sprachnotiz und Fotos in einem Ticket.",
-    "en": "New: report feedback via the red “!” button on every entry – text, dictation, voice note and photos in one ticket."
+    "de": "Rückmeldung: Meldung wird nur noch einmal gespeichert, Zugangscode lässt sich einfach einrichten; Senden-Knopf nicht mehr verdeckt.",
+    "en": "Feedback: report saved only once, easy access-code setup; send button no longer covered."
   }
 }
