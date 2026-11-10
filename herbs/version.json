@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "2.4",
+  "versionCode": 25,
+  "versionName": "2.5",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Neu: automatische Update-Prüfung beim Start (mit Internet) und Update per Knopfdruck.",
-    "en": "New: automatic update check at start (when online) and one-tap update."
+    "de": "Neu: Tipp auf den Titel „Heilkräuter“ öffnet den Tipp des Tages jederzeit erneut.",
+    "en": "New: tap the “Heilkräuter” title to open the tip of the day any time."
   }
 }
