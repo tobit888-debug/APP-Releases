@@ -1,9 +1,9 @@
 {
-  "versionCode": 31,
-  "versionName": "2.11",
+  "versionCode": 32,
+  "versionName": "2.12",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Neu: jedes Bild lässt sich melden (falsch, schlecht erkennbar, unnötig); Kamera und Galerie in der Rückmeldung; geprüfte und ersetzte Fotos bei 9 Arten.",
-    "en": "New: report any image (wrong, hard to see, unnecessary); camera and gallery in feedback; checked and replaced photos for 9 species."
+    "de": "Update-Download jetzt fortsetzbar: Abbrüche der Verbindung setzen an derselben Stelle fort.",
+    "en": "Update download is now resumable: connection drops continue where they stopped."
   }
 }
