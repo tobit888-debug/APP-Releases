@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "2.12",
+  "versionCode": 33,
+  "versionName": "2.13",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Update-Download jetzt fortsetzbar: Abbrüche der Verbindung setzen an derselben Stelle fort.",
-    "en": "Update download is now resumable: connection drops continue where they stopped."
+    "de": "Update-Download läuft im Hintergrund weiter und setzt bei Abbruch automatisch fort; Link zum manuellen Download bei Fehler.",
+    "en": "Update download continues in the background and resumes automatically; manual download link on failure."
   }
 }
