@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "2.7",
+  "versionCode": 28,
+  "versionName": "2.8",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Rückmeldung: Meldung wird nur noch einmal gespeichert, Zugangscode lässt sich einfach einrichten; Senden-Knopf nicht mehr verdeckt.",
-    "en": "Feedback: report saved only once, easy access-code setup; send button no longer covered."
+    "de": "Zugangscode anfragen/weitergeben über das Teilen-Menü; Reiterleiste und Knöpfe 1 cm höher (nicht mehr von der Android-Leiste verdeckt).",
+    "en": "Request/share access code via share menu; tab bar and buttons raised 1 cm (no longer covered by Android bar)."
   }
 }
