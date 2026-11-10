@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "2.5",
+  "versionCode": 26,
+  "versionName": "2.6",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Neu: Tipp auf den Titel „Heilkräuter“ öffnet den Tipp des Tages jederzeit erneut.",
-    "en": "New: tap the “Heilkräuter” title to open the tip of the day any time."
+    "de": "Neu: Rückmelden per rotem „!“-Knopf bei jedem Eintrag – mit Text, Diktat, Sprachnotiz und Fotos in einem Ticket.",
+    "en": "New: report feedback via the red “!” button on every entry – text, dictation, voice note and photos in one ticket."
   }
 }
