@@ -1,0 +1,9 @@
+{
+  "versionCode": 24,
+  "versionName": "2.4",
+  "apk": "Heilkraeuter.apk",
+  "notes": {
+    "de": "Neu: automatische Update-Prüfung beim Start (mit Internet) und Update per Knopfdruck.",
+    "en": "New: automatic update check at start (when online) and one-tap update."
+  }
+}
