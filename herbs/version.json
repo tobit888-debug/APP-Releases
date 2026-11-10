@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "2.9",
+  "versionCode": 31,
+  "versionName": "2.11",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Korrektur: untere Reiterleiste wieder an der richtigen Stelle; Hirtentäschel-Bild korrigiert.",
-    "en": "Fix: bottom tab bar back in place; shepherd's purse photo corrected."
+    "de": "Neu: jedes Bild lässt sich melden (falsch, schlecht erkennbar, unnötig); Kamera und Galerie in der Rückmeldung; geprüfte und ersetzte Fotos bei 9 Arten.",
+    "en": "New: report any image (wrong, hard to see, unnecessary); camera and gallery in feedback; checked and replaced photos for 9 species."
   }
 }
