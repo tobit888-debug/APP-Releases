@@ -1,9 +1,9 @@
 {
-  "versionCode": 34,
-  "versionName": "2.14",
+  "versionCode": 35,
+  "versionName": "2.15",
   "apk": "Heilkraeuter.apk",
   "notes": {
-    "de": "Neu: Schwedenbitter-Rezept (Treben) mit Umschlag und Warnhinweisen.",
-    "en": "New: Swedish bitters recipe (Treben) with compress and warnings."
+    "de": "Neu: Kaffee ausgeben (PayPal) unter Mehr → Info, mit Danke-Animation.",
+    "en": "New: buy me a coffee (PayPal) under More → Info, with a thank-you animation."
   }
 }
